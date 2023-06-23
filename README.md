@@ -1,2 +1,2 @@
 # hybrid_search_tfidf_embedding
-An hybrid search implementation for retrieval system that combines both embedding based and tf-idf based with custom weightage
+A hybrid search implementation for a retrieval system is proposed, which combines both embedding-based and TF-IDF-based approaches, incorporating custom weightage to enhance performance.
